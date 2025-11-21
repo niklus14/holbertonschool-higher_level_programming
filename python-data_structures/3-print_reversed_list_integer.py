@@ -5,4 +5,3 @@ def print_reversed_list_integer(my_list):
     while n<=m:
         print("{:d}".format(my_list[m]))
         m-=1
-
