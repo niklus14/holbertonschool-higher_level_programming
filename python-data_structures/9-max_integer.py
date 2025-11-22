@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def max_integer(my_list):
     if not my_list:
-        return None    
+        return None
     for k in (my_list):
         h = 0
         for i in (my_list):
