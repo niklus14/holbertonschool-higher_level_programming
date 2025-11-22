@@ -6,6 +6,6 @@ def max_integer(my_list=[]):
         h = 0
         for i in (my_list):
             if k >= i:
-                hm += 1
+                h += 1
         if h == len(my_list):
             return k
