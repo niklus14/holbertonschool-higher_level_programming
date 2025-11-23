@@ -7,5 +7,5 @@ def uniq_add(my_list):
             if k != i:
                 new = new.append(k)
     for y in new:
-        x = x * y
+        x = x + y
     return x
